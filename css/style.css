@@ -292,7 +292,7 @@ h6,
 
 /*** Feature ***/
 .feature {
-    background: url('https://www.alxafrica.com/wp-content/uploads/2024/04/alx-slide3.png') center center no-repeat;
+    background: url(../img/kol.jpeg) center center no-repeat;
     background-size: cover;
 }
 
